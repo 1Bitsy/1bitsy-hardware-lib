@@ -1,3 +1,39 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 1bitsy-basic
+D 1Bitsy basic pinout with verbose function labels.
+$ENDCMP
+#
+$CMP 1bitsy-basic-concise
+D 1Bitsy basic pinout and concise pin function labels.
+$ENDCMP
+#
+$CMP 1bitsy-basic-just-pin-id
+D 1Bitsy basic pinout without pin function labels.
+$ENDCMP
+#
+$CMP 1bitsy-complete
+D 1Bitsy complete pinout with verbose function labels.
+$ENDCMP
+#
+$CMP 1bitsy-complete-concise
+D 1Bitsy complete pinout and concise pin function labels.
+$ENDCMP
+#
+$CMP 1bitsy-complete-just-pin-id
+D 1Bitsy complete pinout without pin function labels.
+$ENDCMP
+#
+$CMP 1bitsy-super-complete
+D 1Bitsy very complete pinout including pads and verbose pin function labels.
+$ENDCMP
+#
+$CMP 1bitsy-super-complete-concise
+D 1Bitsy very complete pinout including pads and concise pin function labels.
+$ENDCMP
+#
+$CMP 1bitsy-super-complete-just-pin-id
+D 1Bitsy very complete pinout including pads and concise pin function labels.
+$ENDCMP
+#
 #End Doc Library
